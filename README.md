@@ -2,11 +2,10 @@
 
 <img align="right" height="280px" src="https://i.pinimg.com/564x/d4/36/15/d436152c1d00cb4cee5190c6431b0c12.jpg"/>
 
--📚 I am learning HTML5 e CSS
+-📚learning HTML5 e CSS
 
 -💻 Future Front-end developer
 
--😃 She/Her
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
