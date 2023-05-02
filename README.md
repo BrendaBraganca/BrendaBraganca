@@ -2,7 +2,6 @@
 
 <p align="left"> 
   Olá, meu nome é Brenda! Sou estudante de programação com foco em <strong>Front-end</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
 <p align="left">
