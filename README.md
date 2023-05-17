@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTLML, CSS, JavaScript, Node.js.</strong>
+  🦄 Tecnologias: <strong>HTLML, CSS, JavaScript, Node.js.</strong>
 </p>
 
 <p align="left">
