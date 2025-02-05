@@ -6,7 +6,7 @@
 (Java | Spring Boot | AWS | Python ) 💻
 - 🎓 Curso Ciência da Computação | UFRJ
 - 📚 Interesses: Backend, Computação em Nuvem, Cibersegurança e Iot.
-- 🎯 Amo resolver desafios com algoritmos novos!
+- ☁️ AWS Cloud Practitioner
 
 <div align="left">
   
